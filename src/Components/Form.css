@@ -1,0 +1,9 @@
+.forms {
+    margin: 2rem;
+  }
+
+  .formSubmit {
+      width: 100%;
+      font-weight: bolder;
+      font-size: larger;
+  }
