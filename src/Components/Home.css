@@ -1,0 +1,38 @@
+.home {
+    background-image: url(./image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    margin: 2rem 0rem 10rem 0rem ;
+    height: auto;
+}
+
+.home h1 {
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bolder;
+    font-family: 'Merienda', cursive;
+    color: rgb(170, 120, 120);
+}
+
+.home h3 {
+    text-align: center;
+    color: rgb(177, 120, 112);
+    font-weight: bolder;
+    font-family: 'Merienda', cursive;
+}
+
+.home p {
+    text-align: center;
+    color: rgb(14, 12, 12);
+    font-weight: bolder;
+}
+
+span {
+    color: rgb(69, 69, 207);
+}
+
+.add, .view {
+ text-align: center;
+ margin-left: 20rem;
+}
